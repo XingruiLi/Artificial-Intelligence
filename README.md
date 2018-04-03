@@ -1,6 +1,6 @@
 # Artificial-Intelligence  
 
-Prepare for my first job!So exciting and nervous! And this is the first time I use Markdown.   
+Prepare for my first job!So excited and nervous! And this is the first time I use Markdown.   
 ## 学习计划    
 **课程视频学习-----> 笔记 -----> 阅读 -----> 用Python来进行代码练习 ------> 练习手速 ----->复习**  
 要精 不要泛；**每天更新学习内容**  
